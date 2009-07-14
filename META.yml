@@ -1,7 +1,7 @@
 # http://module-build.sourceforge.net/META-spec.html
 #XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
 name:         Varnish-API
-version:      1.99
+version:      1.99_1
 version_from: lib/Varnish/API.pm
 installdirs:  site
 requires:

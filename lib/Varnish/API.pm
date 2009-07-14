@@ -77,7 +77,7 @@ our @EXPORT = qw(
 	V_DEAD
 );
 
-our $VERSION = '1.99';
+our $VERSION = '1.99_1';
 
 sub AUTOLOAD {
     # This AUTOLOAD is used to 'autoload' constants from the constant()
